@@ -1,14 +1,35 @@
 .grid {
     width: 80%;
     height: 80%;
-    display: flex;
     flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-body {
-    background-color:rgb(255, 255, 255);
+.centered-text {
+    text-align: center;
+}
+
+
+.headertext {
+padding-left: 17.5%;
+padding-right: 17.5%;
+}
+
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: rgb(57, 55, 55);
+        color: white;
     }
-    .headertext {
-    padding-left: 17.5%;
-    padding-right: 2.5%;
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+    body {
+        background-color: white;
+        color: black;
     }
+}
