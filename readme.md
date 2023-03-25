@@ -1,8 +1,15 @@
-# A simple game
+<h2 align="center">A Selenium Quizlet Bot</h2>
 
-[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+<p align="center">
+<a href="https://github.com/arozx/quizlet_bot/blob/main/LICENSE"><img alt="License: OpenBSD 3 Clause" src="https://img.shields.io/badge/licence-BSD%203--Clause-blueviolet"></a>
+</p>
 
-# How to run [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
-Use a webserver.
+---
 
-# [LICENCE](/LICENCE)
+# Usage
+
+Serve the staic files using a web server. Done!
+
+# Demo
+
+[Online demo](https://arozx.tech/demo/js_game)
